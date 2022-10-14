@@ -8,7 +8,7 @@ I'm Diego Montorier, i'm 18 years old and i live near paris
 - 🎓 First year BTS SIO SLAM at ESIEE-IT - Pontoise : School of engineering and digital expertise. 
 - 🔭 I’m Apprentice developer
 - 🌱 I’m currently learning HTML, CSS and Java. 
-- 👨🏻‍🎓 I'm student serious, involved, respectful but sometimes a sleeper.
+- 👨🏻‍🎓 I'm student serious, involved, respectful.
 - 🗳  I never forget cybersecurity, it's really important
 
 ### My passions :
