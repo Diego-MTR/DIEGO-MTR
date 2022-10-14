@@ -9,7 +9,7 @@ I'm Diego Montorier, i'm 18 years old and i live near paris
 - 🔭 I’m Apprentice developer
 - 🌱 I’m currently learning HTML, CSS and Java. 
 - 👨🏻‍🎓 I'm student serious, involved, respectful but sometimes a sleeper.
-- Never forget the cybersecurity, that most important
+- 🗳  I never forget cybersecurity, it's really important
 
 ### My passions :
 - 🕹️ Video games
