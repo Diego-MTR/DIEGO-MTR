@@ -1,4 +1,4 @@
-### Hi there 👋
+#Hi there 👋
 
 I'm Diego Montorier, i'm 18 years old and i live near paris
 
@@ -8,11 +8,13 @@ I'm Diego Montorier, i'm 18 years old and i live near paris
 - 🌱 I’m currently learning HTML, CSS and Java. 
 - 👨🏻‍🎓 I'm student serious, involved, respectful but sometimes a sleeper.
 
-# My passions :
+### My passions :
 🕹️ Video games
 🎵 Music
 🎞️ Japanese animated films and series
 🍥 Naruto's Fan
+
+<img src = konoha-village.jpg>
 
 <!--
 **Diego-MTR/DIEGO-MTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
