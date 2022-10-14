@@ -9,10 +9,10 @@ I'm Diego Montorier, i'm 18 years old and i live near paris
 - 👨🏻‍🎓 I'm student serious, involved, respectful but sometimes a sleeper.
 
 ### My passions :
-🕹️ Video games
-🎵 Music
-🎞️ Japanese animated films and series
-🍥 Naruto's Fan
+- 🕹️ Video games
+- 🎵 Music
+- 🎞️ Japanese animated films and series
+- 🍥 Naruto's Fan
 
 See you soon ! 😇
 
