@@ -5,7 +5,7 @@
 I'm Diego Montorier, i'm 18 years old and i live near paris
 
 ## About Me :
-- 🎓 BTS SIO SLAM
+- 🎓 First year BTS SIO SLAM at ESIEE-IT - Pontoise : Shool of engineering and digital expertise. 
 - 🔭 I’m Apprentice developer
 - 🌱 I’m currently learning HTML, CSS and Java. 
 - 👨🏻‍🎓 I'm student serious, involved, respectful but sometimes a sleeper.
@@ -17,6 +17,5 @@ I'm Diego Montorier, i'm 18 years old and i live near paris
 - 🍥 Naruto's Fan
 
 See you soon ! 😇
-
 <!--
 **Diego-MTR/DIEGO-MTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
