@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Diego-MTR/DIEGO-MTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Diego Montorier, i'm 18 years old and i live near paris
 
 ## About Me :
 - 🎓 BTS SIO SLAM
@@ -14,3 +13,6 @@
 🎵 Music
 🎞️ Japanese animated films and series
 🍥 Naruto's Fan
+
+<!--
+**Diego-MTR/DIEGO-MTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
