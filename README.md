@@ -1,4 +1,4 @@
-#Hi there 👋
+# Hi there ! 👋
 
 I'm Diego Montorier, i'm 18 years old and i live near paris
 
@@ -13,6 +13,8 @@ I'm Diego Montorier, i'm 18 years old and i live near paris
 🎵 Music
 🎞️ Japanese animated films and series
 🍥 Naruto's Fan
+
+See you soon ! 😇
 
 <img src = konoha-village.jpg>
 
