@@ -2,10 +2,11 @@
 
 # Hi there ! 👋
 
-I'm Diego Montorier, i'm 18 years old and i live near paris
+I'm Diego Montorier, i'm 19 years old and i live near paris
 
 ## About Me :
-- 🎓 First year BTS SIO SLAM at ESIEE-IT - Pontoise : School of engineering and digital expertise. 
+- 🎓 Last year BTS SIO SLAM at ESIEE-IT - Pontoise : School of engineering and digital expertise.
+- 🧑‍💻 Work-study at EDF.
 - 🔭 I’m Apprentice developer
 - 🌱 I’m currently learning HTML, CSS, Java, Python et Django
 - 👨🏻‍🎓 I'm student serious, involved, respectfuc
